@@ -1,0 +1,21 @@
+{
+  "appsail": [
+    {
+      "source": "appsail",
+      "name": "AppSail"
+    }
+  ],
+  "slate": [
+    {
+      "name": "quizforge-frontend",
+      "source": "C:\\Users\\kotak\\quizforge-catalyst\\quizforge-frontend"
+    }
+  ],
+  "functions": {
+    "targets": [
+      "edu_quiz_forage_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

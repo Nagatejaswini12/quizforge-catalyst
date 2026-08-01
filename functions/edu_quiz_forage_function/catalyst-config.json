@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "edu_quiz_forage_function",
+		"stack": "node20",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

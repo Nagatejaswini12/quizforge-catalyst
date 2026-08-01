@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "62305000000013047",
+      "name": "EduQuizForage",
+      "domain": {
+        "id": "50044566123",
+        "name": "eduquizforage-60081091136.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60081091136",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

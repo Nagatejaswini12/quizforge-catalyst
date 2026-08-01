@@ -1,0 +1,11 @@
+{
+	"name": "edu_quiz_forage_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "24636.ad@rmkcet.ac.in",
+	"dependencies": {
+		"cors": "^2.8.6",
+		"express": "^5.2.1",
+		"zcatalyst-sdk-node": "^3.4.0"
+	}
+}
